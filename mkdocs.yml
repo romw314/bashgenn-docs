@@ -3,3 +3,6 @@ markdown_extensions:
   - attr_list
 extra_css:
   - style.css
+nav:
+  - Home: 'index.md'
+  - Getting Started: 'getting-started.md'
