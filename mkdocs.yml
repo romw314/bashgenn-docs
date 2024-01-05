@@ -1,5 +1,8 @@
 site_name: Bashgenn DOCS
 repo_url: https://github.com/romw314/bashgenn-docs
+theme:
+  name: readthedocs
+  locale: en
 markdown_extensions:
   - attr_list
 extra_css:
